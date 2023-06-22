@@ -1,5 +1,5 @@
-***### Hi there 👋👻 :electron:***
-
+***Hi there 👋👻 :electron:***
+### Hi there 👋👻
 - 🔭 I’m currently working on making my first website.
 - 🌱 I’m currently learning Javascript and Java.
 - 🤔 I’m looking for help with learning Javascript and Java.
