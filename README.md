@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋👻 :electron:
+
+- 🔭 I’m currently working on making my first website.
+- 🌱 I’m currently learning Javascript and Java.
+- 🤔 I’m looking for help with learning Javascript and Java.
+- - 💬 Ask me about how to help me with learning Javascript and Java.
+- - ⚡ Fun fact: I need help with learning Javascript and Java.
+
 
 <!--
 **lalolel/lalolel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
