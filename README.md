@@ -1,7 +1,7 @@
 ### ***Hi there 👋👻 :electron:***
 
 
-- 🔭 I’m currently working on making my first website.
+- 🔭 I’m currently working on my first website.
 - 🌱 I’m currently learning Javascript and Java.
 - 🤔 I’m looking for help with learning Javascript and Java.
 -  ⚡ Fun fact: I need help with learning Javascript and Java.
