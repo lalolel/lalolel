@@ -1,5 +1,4 @@
-### *** Hello there! :) ***
-
+### ***Hi there 👋👻 :electron:***
 
 - 🔭 I’m currently working on my first website.
 - 🌱 I’m currently learning HTML, Javascript and Java.
