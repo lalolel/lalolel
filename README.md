@@ -11,7 +11,7 @@
 <img align="right" width=300 alt="Unicorn" src="https://github.com/lalolel/lalolel/blob/176f7d53bd4753e98176efec8c74182bf1dcc0f1/pics/ascii1.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About me***
-
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About Me ...***
 ✔ ✨ I'm a passionate Frontend but aspiring Full Stack Developer. <br>
 ✔ 🔭 I’m currently working on my first website. <br>
 ✔ 🌱 I’m currently learning HTML, Javascript, Python and Java. <br>
