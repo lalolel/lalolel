@@ -17,7 +17,6 @@
 ✔ 🌱 I’m currently learning HTML, Javascript, Python and Java. <br>
 ✔ 🤔 I’m looking for help with learning Javascript and Java. <br>
 ✔ ⚡ Fun fact: I need help with learning Javascript and Java. <br>
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About me***
 
 ## <img src="https://raw.githubusercontent.com/lalolel/lalolel/main/pics/ascii2.gif" width="45">&nbsp;***Languages and Tools***
  
