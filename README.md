@@ -12,11 +12,11 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About me***
 
-✔ ✨ I'm a passionate Frontend but aspiring Full Stack Developer. 
-✔ 🔭 I’m currently working on my first website. 
-✔ 🌱 I’m currently learning HTML, Javascript and Java. 
-✔ 🤔 I’m looking for help with learning Javascript and Java. 
-✔ ⚡ Fun fact: I need help with learning Javascript and Java. 
+✔ ✨ I'm a passionate Frontend but aspiring Full Stack Developer. <br>
+✔ 🔭 I’m currently working on my first website. <br>
+✔ 🌱 I’m currently learning HTML, Javascript and Java. <br>
+✔ 🤔 I’m looking for help with learning Javascript and Java. <br>
+✔ ⚡ Fun fact: I need help with learning Javascript and Java. <br>
 
 
 <!--
