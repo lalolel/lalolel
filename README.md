@@ -7,12 +7,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/lalolel/lalolel/main/pics/Logo.gif" />
 </p>
-## About me
-- ✨ I'm a passionate Frontend but aspiring Full Stack Developer. 
-- 🔭 I’m currently working on my first website. 
-- 🌱 I’m currently learning HTML, Javascript and Java. 
-- 🤔 I’m looking for help with learning Javascript and Java. 
-- ⚡ Fun fact: I need help with learning Javascript and Java. 
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About Me ...***
+
+✔ ✨ I'm a passionate Frontend but aspiring Full Stack Developer. 
+✔ 🔭 I’m currently working on my first website. 
+✔ 🌱 I’m currently learning HTML, Javascript and Java. 
+✔ 🤔 I’m looking for help with learning Javascript and Java. 
+✔ ⚡ Fun fact: I need help with learning Javascript and Java. 
 
 
 <!--
