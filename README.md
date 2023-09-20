@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/lalolel/lalolel/main/pics/Logo.gif" />
 </p>
 
-<img align="right" width=300 alt="Unicorn" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" width=300 alt="Unicorn" src="https://github.com/lalolel/lalolel/blob/176f7d53bd4753e98176efec8c74182bf1dcc0f1/pics/ascii1.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About me***
 
