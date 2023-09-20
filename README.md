@@ -22,46 +22,46 @@
  
 <h2><b><i align='center'> ⚡ Experiences: <br> <b /></i></h2>
   
-[![Web Development](https://img.shields.io/badge/Web%20Development-20232A?style=for-the-badge&logo=Web%20Development&logoColor=61DAFB)]
-[![App Development](https://img.shields.io/badge/App%20Development-20232A?style=for-the-badge&logo=App%20Development&logoColor=61DAFB)]
+![Web Development](https://img.shields.io/badge/Web%20Development-20232A?style=for-the-badge&logo=Web%20Development&logoColor=61DAFB)
+![App Development](https://img.shields.io/badge/App%20Development-20232A?style=for-the-badge&logo=App%20Development&logoColor=61DAFB)
 
 
 <h2><b><i align='center'> 🕸️ Web Dev Tools: <br> <b /></i></h2>
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whit)]
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
-[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=whit)]
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)]
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]
-[![Jquery](https://camo.githubusercontent.com/d03eebeb5b432e60d3ed07e832e828f95e85f593c82b35f48bb24aa362f962a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a71756572792d2532333037363941442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465)]
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whit)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=whit)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Jquery](https://camo.githubusercontent.com/d03eebeb5b432e60d3ed07e832e828f95e85f593c82b35f48bb24aa362f962a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a71756572792d2532333037363941442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465)
 
 <br />
   
 
 <h2><b><i align='center'> 📚 Languages: <br> <b /></i></h2>
   
-[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
-[![Python](https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)]
-[![Java](https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)]
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
+![Java](https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
 
   
 
 
 <h2><b><i align='center'> 📅 Databases: <br> <b /></i></h2>
   
-[![Google Cloud ](https://camo.githubusercontent.com/7b2324b305d6c55a7c0aa7cb47ba8666d2bc3d4b597b06979c9564135d87b80a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436c6f75642d2532333432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465)]
-[![MySql](https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad14f970522f219daaeb6d1c81060e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)]
+![Google Cloud ](https://camo.githubusercontent.com/7b2324b305d6c55a7c0aa7cb47ba8666d2bc3d4b597b06979c9564135d87b80a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436c6f75642d2532333432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465)
+![MySql](https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad14f970522f219daaeb6d1c81060e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
 
   
 <h2><b><i align='center'> 🛠️ Frameworks: <br> <b /></i></h2>
   
-[![Django](https://camo.githubusercontent.com/5473e0d3006bb7e662bdf754d830a026ce050be61f1cbbd4689783ae49950b93/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646a616e676f2d2532333039324532302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465)]
-[![Next](https://camo.githubusercontent.com/b7395b00d152dc8f19cec61f582369bd580e31b8ed93d34646ec43aa675baa7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465)]
-[![React](https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)]
+![Django](https://camo.githubusercontent.com/5473e0d3006bb7e662bdf754d830a026ce050be61f1cbbd4689783ae49950b93/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646a616e676f2d2532333039324532302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465)
+![Next](https://camo.githubusercontent.com/b7395b00d152dc8f19cec61f582369bd580e31b8ed93d34646ec43aa675baa7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465)
+![React](https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
   
 
 
@@ -70,14 +70,14 @@
 
 <h2><b><i align='center'> 📱 Mobile Dev Tools: <br> <b /></i></h2>
   
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")]
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")
 
 
 <h2><b><i align='center'> 📄 Code Editor & Ides: <br> <b /></i></h2>
   
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-20232A?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=61DAFB)]
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-20232A?style=for-the-badge&logo=Android%20Studio&logoColor=61DAFB)]
-[![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-20232A?style=for-the-badge&logo=Intellij%20Idea&logoColor=61DAFB)]
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-20232A?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=61DAFB)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-20232A?style=for-the-badge&logo=Android%20Studio&logoColor=61DAFB)
+![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-20232A?style=for-the-badge&logo=Intellij%20Idea&logoColor=61DAFB)
 
 
 
