@@ -18,7 +18,7 @@
 ✔ 🤔 I’m looking for help with learning Javascript and Java. <br>
 ✔ ⚡ Fun fact: I need help with learning Javascript and Java. <br>
 
- ## <img src="https://raw.githubusercontent.com/lalolel/lalolel/main/pics/ascii2.gif" width="45">&nbsp;***Languages and Tools***
+## <img src="https://raw.githubusercontent.com/lalolel/lalolel/main/pics/ascii2.gif" width="45">&nbsp;***Languages and Tools***
  
 <h2><b><i align='center'> ⚡ Experiences: <br> <b /></i></h2>
   
@@ -73,7 +73,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")
 
 
-<h2><b><i align='center'> 📄 Code Editor & Ides: <br> <b /></i></h2>
+<h2><b><i align='center'> 📄 Code Editors: <br> <b /></i></h2>
   
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-20232A?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=61DAFB)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-20232A?style=for-the-badge&logo=Android%20Studio&logoColor=61DAFB)
