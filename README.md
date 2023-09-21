@@ -18,7 +18,7 @@
 ✔ ⚡ Fun fact: I need help with learning Javascript and Java. <br>
 
 <img src="https://raw.githubusercontent.com/lalolel/lalolel/main/pics/ascii2.gif" width="45"/>&nbsp;
-##***Languages and Tools***
+## ***Languages and Tools***
 
 <h2><b><i align='center'> ⚡ Experiences: <br> <b /></i></h2>
   
