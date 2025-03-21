@@ -11,6 +11,7 @@
 <br />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About me***  <br>
+<br />
 Aspiring Front-End Engineer with a background in law and economics specializing in **React (Next)**.  My coding journey is driven by curiosity and a dedication to build scalable, visually appealing applications. 
 <br />
 
