@@ -4,9 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <a align="right" href="https://app.daily.dev/lalolel"><img src="https://api.daily.dev/devcards/v2/ViPfCjkOIeySyy17CJe7q.png?type=default&r=n2r" width="40%" alt="Lauris's Dev Card"/></a>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lalolel/lalolel/main/pics/Logo.gif" />
-</p>
+
 
 <img align="right" width=300 alt="Unicorn" src="https://github.com/lalolel/lalolel/blob/176f7d53bd4753e98176efec8c74182bf1dcc0f1/pics/ascii1.gif" />
 
