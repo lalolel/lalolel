@@ -61,7 +61,7 @@ I'm an aspiring Front-End Engineer with a desire for creating engaging web exper
 <br />
 
 
-
+<!--
 ## <img src="https://raw.githubusercontent.com/lalolel/lalolel/main/pics/ascii2.gif" width="45"/>&nbsp; ***Languages and Tools*** 
   
 <h2><b><i align='center'> ⚡ Experiences: <br> <b /></i></h2>
@@ -134,7 +134,7 @@ Vue.js
 
 
 
-<!--
+
 **lalolel/lalolel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
