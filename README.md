@@ -12,17 +12,9 @@
 <br />
 <br />
 
-
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About me***  <br>
 I'm an aspiring Front-End Engineer with a desire for creating engaging web experiences specializing in **React (Next)** with a background in law, that enables me to deliver exceptional results in complex and dynamic environments and gives me a unique analytical perspective when approaching technical challenges. My coding journey is driven by curiosity and a dedication to build scalable, visually appealing applications. 
 <br />
-
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About me***  <br>
-✔ ✨ I'm a passionate Frontend but aspiring Full Stack Developer. <br>
-✔ 🌱 I’m currently learning React.  <br>
-✔ 🤔 I’m looking for help with learning Javascript and Java. <br>
-✔ ⚡ Fun fact: I need help with learning Javascript and Java. <br>
-
 
 <br />
 <br />
