@@ -28,6 +28,7 @@ Aspiring Front-End Engineer with a background in law and economics specializing 
 <br />
 <br />
 <br />
+<br />
 
 | **Languages** | **Frontend Technologies** |
 | --- | --- |
