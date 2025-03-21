@@ -13,7 +13,7 @@
 <br />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About me***  <br>
-Aspiring Front-End Engineer with a desire for creating engaging web experiences specializing in **React (Next)** with a background in law, that gives me a unique analytical perspective when approaching technical challenges. My coding journey is driven by curiosity and a dedication to build scalable, visually appealing applications. 
+Aspiring Front-End Engineer with a desire for creating engaging web experiences specializing in **React (Next)** with a background in law, that provides a unique analytical perspective when approaching technical challenges. My coding journey is driven by curiosity and a dedication to build scalable, visually appealing applications. 
 <br />
 
 <br />
