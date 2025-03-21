@@ -12,7 +12,9 @@
 <br />
 
 
-I'm an aspiring Front-End Engineer with a desire for creating engaging web experiences specializing in **React (Next)** and **Vue 3 (Nuxt)**. My coding journey is driven by curiosity and a dedication to build scalable, visually appealing applications. From crafting complex UI interactions to ensuring efficient back-end support, I love pushing the boundaries of modern technology utilizing advanced AI solutions, which enables me to deliver exceptional results in complex and dynamic environments. My background in law gives me a unique analytical perspective when approaching technical challenges. My passion is working at the intersection of technology and finance, leveraging data science to extract meaningful insights.
+I'm an aspiring Front-End Engineer with a desire for creating engaging web experiences specializing in **React (Next)** and **Vue 3 (Nuxt)**. 
+
+My coding journey is driven by curiosity and a dedication to build scalable, visually appealing applications. Combining love for pushing the boundaries of modern technology utilizing advanced AI solutions with my background in law enables me to deliver exceptional results in complex and dynamic environments and gives me a unique analytical perspective when approaching technical challenges. My passion is working at the intersection of technology and finance, leveraging data science to extract meaningful insights.
 <br />
 
 
