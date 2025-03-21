@@ -48,7 +48,7 @@ Aspiring Front-End Engineer with a background in law and economics specializing 
 
 <br />
 
-<img align="left" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalolel&count_private=true&theme=ambient_gradient&border_radius=10&layout=donut-vertical&langs_count=12" alt="Most used languages" />
+<img align="left" height="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalolel&count_private=true&theme=ambient_gradient&border_radius=10&layout=donut-vertical&langs_count=12" alt="Most used languages" />
 
 
 <br />
