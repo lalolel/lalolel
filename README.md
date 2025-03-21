@@ -9,6 +9,11 @@
 <br />
 <br />
 <br />
+<br />
+
+I'm a **Front-End Engineer** and a passionate tech enthusiast specializing in **React (Next)** and **Vue 3 (Nuxt)**. My coding journey is driven by curiosity and a dedication to building scalable, visually appealing applications. Whether it's crafting complex UI interactions or ensuring efficient back-end support, I enjoy turning ideas into reality with code.
+
+<br />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About me***
 ✔ ✨ I'm a passionate Frontend but aspiring Full Stack Developer. <br>
@@ -17,11 +22,7 @@
 ✔ 🤔 I’m looking for help with learning Javascript and Java. <br>
 ✔ ⚡ Fun fact: I need help with learning Javascript and Java. <br>
 
-<br />
 
-I'm a **Front-End Engineer** and a passionate tech enthusiast specializing in **React (Next)** and **Vue 3 (Nuxt)**. My coding journey is driven by curiosity and a dedication to building scalable, visually appealing applications. Whether it's crafting complex UI interactions or ensuring efficient back-end support, I enjoy turning ideas into reality with code.
-
-<br />
 <br />
 <br />
 <br />
