@@ -49,17 +49,17 @@ Aspiring Front-End Engineer with a background in law and economics specializing 
 <br />
 <br />
 
-<img align="left" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalolel&count_private=true&theme=default&border_radius=16&layout=donut-vertical&langs_count=12" alt="Most used languages" />
+<img align="left" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalolel&count_private=true&theme=ambient_gradient&border_radius=16&layout=donut-vertical&langs_count=12" alt="Most used languages" />
 
 <br />
 <br />
 
-![lalolel's github stats](https://github-readme-stats.vercel.app/api?username=lalolel&show_icons=true&theme=default&border_radius=16&rank_icon=default)
+![lalolel's github stats](https://github-readme-stats.vercel.app/api?username=lalolel&show_icons=true&theme=ambient_gradient&border_radius=16&rank_icon=default)
 
 <br />
 <br />
 
-![lalolel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalolel&theme=default&border_radius=16&card_width=467)
+![lalolel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalolel&theme=ambient_gradient&border_radius=16&card_width=467)
 
 <br />
 <br />
