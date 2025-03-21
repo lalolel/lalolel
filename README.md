@@ -17,10 +17,9 @@ I'm an aspiring Front-End Engineer with a desire for creating engaging web exper
 <br />
 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About me***
 ✔ ✨ I'm a passionate Frontend but aspiring Full Stack Developer. <br>
-✔ 🔭 I’m currently working on my first website. <br>
-✔ 🌱 I’m currently learning HTML, Javascript, Python and Java. <br>
+✔ 🌱 I’m currently learning React.  <br>
 ✔ 🤔 I’m looking for help with learning Javascript and Java. <br>
 ✔ ⚡ Fun fact: I need help with learning Javascript and Java. <br>
 
