@@ -43,7 +43,9 @@ Aspiring Front-End Engineer with a background in law and economics specializing 
 
 <br />
 <br />
-
+<br />
+<br />
+<br />
 ![lalolel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lalolel&theme=rogue&radius=10)
 
 <br />
