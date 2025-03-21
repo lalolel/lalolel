@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Aspiring developer, tech enthusiast & philosophy enjoyer.
+  Turning ideas into reality.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <a align="right" href="https://app.daily.dev/lalolel"><img src="https://api.daily.dev/devcards/v2/ViPfCjkOIeySyy17CJe7q.png?type=default&r=n2r" width="40%" alt="Lauris's Dev Card"/></a>
@@ -12,9 +12,7 @@
 <br />
 
 
-I'm an aspiring Front-End Engineer with a desire for creating engaging web experiences specializing in **React (Next)** and **Vue 3 (Nuxt)**. 
-
-My coding journey is driven by curiosity and a dedication to build scalable, visually appealing applications. Combining love for pushing the boundaries of modern technology utilizing advanced AI solutions with my background in law enables me to deliver exceptional results in complex and dynamic environments and gives me a unique analytical perspective when approaching technical challenges. My passion is working at the intersection of technology and finance, leveraging data science to extract meaningful insights.
+I'm an aspiring Front-End Engineer with a desire for creating engaging web experiences specializing in **React (Next)** with a background in law, that enables me to deliver exceptional results in complex and dynamic environments and gives me a unique analytical perspective when approaching technical challenges. My coding journey is driven by curiosity and a dedication to build scalable, visually appealing applications. 
 <br />
 
 
