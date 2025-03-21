@@ -16,7 +16,8 @@ Aspiring Front-End Engineer with a background in law and economics specializing 
 <br />
 <br />
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***Let's Connect!***  <br>
-I'm actively seeking opportunities in Front-End Engineering. If you'd like to collaborate or have an opportunity to discuss, feel free to reach out!
+I'm actively seeking opportunities in Front-End Engineering. If you'd like to collaborate or have an opportunity to discuss, feel free to reach out! <br>
+
 <br />
 <br />
 <br />
