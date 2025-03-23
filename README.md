@@ -25,10 +25,7 @@ I'm actively seeking opportunities in Front-End Engineering. If you'd like to co
 <img src="https://media2.giphy.com/media/zbUo2XYK8OjAtQQw6v/200.webp" width="60">&nbsp;***Currently working on:***  <br>
 <br />
 <br />
-<img src="https://i.giphy.com/sKronBysxbFnAtWpyg.webp" width="60">&nbsp;***Interests and passions:***  <br>
 
-<br />
-<br />
 <br />
 
 
