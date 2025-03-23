@@ -1,6 +1,5 @@
 <h1 align="center">
-      <img src="https://i.giphy.com/NzSUEgbTWB7TW.webp" width="90">  <br>
-  Turning ideas into reality
+      <img src="assets/t dark purple beautiful_16047407.PNG" width="600">  <br>
 </h1>
 
 <a align="right" href="https://app.daily.dev/lalolel"><img align="right" src="https://api.daily.dev/devcards/v2/ViPfCjkOIeySyy17CJe7q.png?type=default&r=n2r" width="40%" alt="Lauris's Dev Card"/></a>
