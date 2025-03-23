@@ -21,17 +21,20 @@
 Aspiring Front-End Engineer with a background in law and economics specializing in **React (Next)**.  My coding journey is driven by curiosity and a dedication to build scalable, visually appealing applications. <br>
 <br />
 <br />
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhjcnc4aDF0ZDNhNzdtNGwwbDNudWE5Ymlyb2tjNWNrN2c1Nnd6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e6l0YRVArTH8I/giphy.gif" width="60">&nbsp;***Let's Connect!***  <br>
+<img src="https://i.giphy.com/14APLG463ouIBK5J4W.webp" width="80">&nbsp; ***Let's Connect!***  <br>
 <br />
 <br />
 I'm actively seeking opportunities in Front-End Engineering. If you'd like to collaborate or have an opportunity to discuss, feel free to reach out! <br>
 <br />
 <br />
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF3emdicnczZGt3Z245bjFpZDk5N2g5b3NiZTYycjQycThja2w5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/r3rHsiozh6noUHmJdq/giphy.gif" width="60">&nbsp;***Placeholder***  <br>
+<img src="https://media2.giphy.com/media/zbUo2XYK8OjAtQQw6v/200.webp" width="60">&nbsp;***Currently working on:***  <br>
 <br />
 <br />
-<img src="https://media.giphy.com/media/SuMDGykHJRisZX5B3p/giphy.gif?cid=ecf05e47ig7gchgx59anj4cspf87v0cgowrcxi0i99atkpak&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="90">&nbsp; ***HELLO***  <br>
+<img src="https://i.giphy.com/sKronBysxbFnAtWpyg.webp" width="60">&nbsp;***Interests and passions:***  <br>
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
