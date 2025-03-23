@@ -1,4 +1,7 @@
 <h1 align="center">
+  <img src="https://i.giphy.com/NzSUEgbTWB7TW.webp" width="90"
+      <img src="https://i.giphy.com/NzSUEgbTWB7TW.webp" width="90" <br>
+    <img src="https://i.giphy.com/NzSUEgbTWB7TW.webp" width="90" <br> <br>
   Turning ideas into reality
 </h1>
 
@@ -10,20 +13,20 @@
 <br />
 <br />
 
-<img src="[https://i.giphy.com/2LDjrctY0v8FmlhWbk.webp](https://i.giphy.com/PSIfCnSRkX4MVe99De.webp)" width="90">&nbsp;***About me***  <br>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBucnJ0bW45MnY3N3RhNTZ1NHhvM2tvaXdqeGtncTRsa20wcmRnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/14APLG463ouIBK5J4W/giphy.gif" width="90">&nbsp;***About me***  <br>
 <br />
-Aspiring Front-End Engineer with a background in law and economics specializing in **React (Next)**.  My coding journey is driven by curiosity and a dedication to build scalable, visually appealing applications. 
+Aspiring Front-End Engineer with a background in law and economics specializing in **React (Next)**.  My coding journey is driven by curiosity and a dedication to build scalable, visually appealing applications. <br>
 <br />
 <br />
-<img src="https://i.giphy.com/ls5YiBUOW3Do7oTogS.webp" width="60">&nbsp;***Let's Connect!***  <br>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhjcnc4aDF0ZDNhNzdtNGwwbDNudWE5Ymlyb2tjNWNrN2c1Nnd6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e6l0YRVArTH8I/giphy.gif" width="60">&nbsp;***Let's Connect!***  <br>
+<br />
 I'm actively seeking opportunities in Front-End Engineering. If you'd like to collaborate or have an opportunity to discuss, feel free to reach out! <br>
-
-
-<img src="https://i.giphy.com/ls5YiBUOW3Do7oTogS.webp" width="60">&nbsp;***PLaceholder***  <br>
-
-
-<img src="https://i.giphy.com/2LDjrctY0v8FmlhWbk.webp" width="80">&nbsp;***PLaceholder!***  <br>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About me***  <br>
+<br />
+<br />
+<img src="https://i.giphy.com/ls5YiBUOW3Do7oTogS.webp" width="60">&nbsp;***Placeholder***  <br>
+<br />
+<br />
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50">&nbsp;***About me***  <br>
 
 <br />
 <br />
