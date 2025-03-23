@@ -1,5 +1,5 @@
 <h1 align="center">
-      <img src="assets/bannergit.PNG" width="600">  <br>
+      <img src="assets/bannergit.PNG" width="700">  <br>
 </h1>
 
 <a align="right" href="https://app.daily.dev/lalolel"><img align="right" src="https://api.daily.dev/devcards/v2/ViPfCjkOIeySyy17CJe7q.png?type=default&r=n2r" width="40%" alt="Lauris's Dev Card"/></a>
