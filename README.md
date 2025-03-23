@@ -15,7 +15,7 @@
 Aspiring Front-End Engineer with a background in law and economics specializing in **React (Next)**.  My coding journey is driven by curiosity and a dedication to build scalable, visually appealing applications. 
 <br />
 <br />
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***Let's Connect!***  <br>
+<img src="https://i.giphy.com/ls5YiBUOW3Do7oTogS.webp" width="60">&nbsp;***Let's Connect!***  <br>
 I'm actively seeking opportunities in Front-End Engineering. If you'd like to collaborate or have an opportunity to discuss, feel free to reach out! <br>
 
 
