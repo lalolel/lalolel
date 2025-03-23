@@ -6,10 +6,6 @@
 
 
 <br />
-<br />
-<br />
-<br />
-
 
                                                                                                                                                                                                                                                                                                                                           
 <br />
@@ -34,19 +30,8 @@ I'm actively seeking opportunities in Front-End Engineering. If you'd like to co
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
+
 
 | **Languages** | **Frontend Technologies** |
 | --- | --- |
