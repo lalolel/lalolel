@@ -15,9 +15,9 @@
 Aspiring Front-End Engineer with a background in law and economics specializing in **React (Next)**.  My coding journey is driven by curiosity and a dedication to build scalable, visually appealing applications. 
 <br />
 <br />
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***Let's Connect!***  <br>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;  <br>
 I'm actively seeking opportunities in Front-End Engineering. If you'd like to collaborate or have an opportunity to discuss, feel free to reach out! <br>
-
+<iframe src="https://giphy.com/embed/ls5YiBUOW3Do7oTogS" width="480" height="427" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/loop-goldfish-supertatouille-ls5YiBUOW3Do7oTogS">***Let's Connect!***</a></p>
 
 <br />
 <br />
