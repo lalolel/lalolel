@@ -13,7 +13,7 @@
 <img src="https://media.giphy.com/media/SuMDGykHJRisZX5B3p/giphy.gif?cid=ecf05e47ig7gchgx59anj4cspf87v0cgowrcxi0i99atkpak&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="80">&nbsp;***About me:***  <br>
 <br />
 <br />
-Aspiring **Software Developer/data analyst** with a background in law and economics specializing in **React (Next)**.  My coding journey is driven by curiosity and a dedication to build scalable, visually appealing applications. <br>
+Aspiring **Software Developer/data analyst** with a background in law and economics specializing in **React (Next), Python(Jupyter)**.  My coding journey is driven by curiosity and a dedication to build scalable, visually appealing applications. <br>
 <br />
 <br />
 <img src="https://i.giphy.com/14APLG463ouIBK5J4W.webp" width="80">&nbsp; ***Let's Connect!***  <br>
