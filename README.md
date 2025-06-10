@@ -19,7 +19,7 @@ Aspiring **Software Developer/Data analyst** with a background in law and econom
 <img src="https://i.giphy.com/14APLG463ouIBK5J4W.webp" width="80">&nbsp; ***Let's Connect!***  <br>
 <br />
 <br />
-I'm actively seeking opportunities in Front-End Engineering. If you'd like to collaborate or have an opportunity to discuss, feel free to reach out! <br>
+I'm actively seeking opportunities in Front-End Engineering and data analysis. If you'd like to collaborate or have an opportunity to discuss, feel free to reach out! <br>
 <br />
 <br />
 <img src="https://media2.giphy.com/media/zbUo2XYK8OjAtQQw6v/200.webp" width="60">&nbsp;***Currently working on:***  <br>
