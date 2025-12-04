@@ -45,13 +45,6 @@ I'm actively seeking opportunities in Front-End Engineering and data analysis. I
 <br />
 <br />
 <br />
-<br />
-
-<br />
-<br />
-<br />
-<br />
-
 
 
 ![lalolel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalolel&theme=ambient_gradient&border_radius=16&card_width=467)
