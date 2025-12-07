@@ -25,7 +25,7 @@ I'm actively seeking opportunities in data analysis related projects. If you'd l
 <img src="https://media2.giphy.com/media/zbUo2XYK8OjAtQQw6v/200.webp" width="60">&nbsp;***Currently working on:***  <br>
 <br />
 <br />
-
+Making my own algorithmic trading bot. Link will be available here.
 <br />
 
 
