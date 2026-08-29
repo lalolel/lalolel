@@ -22,7 +22,7 @@ Aspiring **Data Engineer** with a background in law and economics specializing i
 Researching algorithmic trading systems and real-time streaming pipelines, actively seeking opportunities in data engineering projects. <br>
 <br />
 <br />
-<img src="https://i.giphy.com/14APLG463ouIBK5J4W.webp" width="80">&nbsp; ***What I know:***  <br>
+<img src="https://i.giphy.com/14APLG463ouIBK5J4W.webp" width="80">&nbsp; ***What I am familiar with:***  <br>
 <br />
 <br />
 
