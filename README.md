@@ -16,9 +16,7 @@
 Aspiring **Data Engineer** with a background in law and economics specializing in **SQL, Python, and scalable data pipelines**.  My coding journey is driven by curiosity and a dedication to learn something new. <br>
 <br />
 <br />
-
-<br />
-<img src="https://media2.giphy.com/media/zbUo2XYK8OjAtQQw6v/200.webp" width="60">&nbsp; ***What I do: ***  <br>
+<img src="https://media2.giphy.com/media/zbUo2XYK8OjAtQQw6v/200.webp" width="60">&nbsp; ***What I do:***  <br>
 <br />
 <br />
 Researching algorithmic trading systems and real-time streaming pipelines, actively seeking opportunities in data engineering projects. If you'd like to collaborate or have an opportunity to discuss, feel free to reach out! <br>
