@@ -10,7 +10,7 @@
                                                                                                                                                                                                                                                                                                                                           
 <br />
 
-<img src="https://media.giphy.com/media/SuMDGykHJRisZX5B3p/giphy.gif?cid=ecf05e47ig7gchgx59anj4cspf87v0cgowrcxi0i99atkpak&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="80">&nbsp;***Who am I:***  <br>
+<img src="https://media.giphy.com/media/SuMDGykHJRisZX5B3p/giphy.gif?cid=ecf05e47ig7gchgx59anj4cspf87v0cgowrcxi0i99atkpak&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="80">&nbsp; ***Who am I:***  <br>
 <br />
 <br />
 Aspiring **Data Engineer** with a background in law and economics specializing in **SQL, Python, and scalable data pipelines**.  My coding journey is driven by curiosity and a dedication to learn something new. <br>
@@ -18,7 +18,7 @@ Aspiring **Data Engineer** with a background in law and economics specializing i
 <br />
 
 <br />
-<img src="https://media2.giphy.com/media/zbUo2XYK8OjAtQQw6v/200.webp" width="60">&nbsp;***What I do:***  <br>
+<img src="https://media2.giphy.com/media/zbUo2XYK8OjAtQQw6v/200.webp" width="60">&nbsp; ***What I do:***  <br>
 <br />
 <br />
 Researching algorithmic trading systems and real-time streaming pipelines, actively seeking opportunities in data engineering projects. If you'd like to collaborate or have an opportunity to discuss, feel free to reach out! <br>
