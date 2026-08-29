@@ -10,25 +10,23 @@
                                                                                                                                                                                                                                                                                                                                           
 <br />
 
-<img src="https://media.giphy.com/media/SuMDGykHJRisZX5B3p/giphy.gif?cid=ecf05e47ig7gchgx59anj4cspf87v0cgowrcxi0i99atkpak&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="80">&nbsp;***About me:***  <br>
+<img src="https://media.giphy.com/media/SuMDGykHJRisZX5B3p/giphy.gif?cid=ecf05e47ig7gchgx59anj4cspf87v0cgowrcxi0i99atkpak&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="80">&nbsp;***Who am I:***  <br>
 <br />
 <br />
 Aspiring **Data Engineer** with a background in law and economics specializing in **SQL, Python, and scalable data pipelines**.  My coding journey is driven by curiosity and a dedication to learn something new. <br>
 <br />
 <br />
-<img src="https://i.giphy.com/14APLG463ouIBK5J4W.webp" width="80">&nbsp; ***Let's Connect!***  <br>
-<br />
-<br />
-I'm actively seeking opportunities in data analysis and data engineering related projects. If you'd like to collaborate or have an opportunity to discuss, feel free to reach out! <br>
-<br />
-<br />
-<img src="https://media2.giphy.com/media/zbUo2XYK8OjAtQQw6v/200.webp" width="60">&nbsp;***Currently working on:***  <br>
-<br />
-<br />
-Making my own algorithmic trading bot and building an end-to-end real-time streaming pipeline using Kafka and Flink. Link will be available here.
-<br />
 
-
+<br />
+<img src="https://media2.giphy.com/media/zbUo2XYK8OjAtQQw6v/200.webp" width="60">&nbsp;***What I do:***  <br>
+<br />
+<br />
+Researching algorithmic trading systems and real-time streaming pipelines, actively seeking opportunities in data engineering projects. If you'd like to collaborate or have an opportunity to discuss, feel free to reach out! <br>
+<br />
+<br />
+<img src="https://i.giphy.com/14APLG463ouIBK5J4W.webp" width="80">&nbsp; ***What I know:***  <br>
+<br />
+<br />
 
 | **Languages** | **Data Engineering & Big Data** |
 | --- | --- |
@@ -44,15 +42,16 @@ Making my own algorithmic trading bot and building an end-to-end real-time strea
 
 <br />
 <br />
-<br />
 
+<br />
+<!--
 
 ![lalolel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalolel&theme=ambient_gradient&border_radius=16&card_width=467)
 
 <br />
 <br />
 
-<!--
+
 ## <img src="https://raw.githubusercontent.com/lalolel/lalolel/main/pics/ascii2.gif" width="45"/>&nbsp; ***Languages and Tools*** 
   
 <h2><b><i align='center'> ⚡ Experiences: <br> <b /></i></h2>
